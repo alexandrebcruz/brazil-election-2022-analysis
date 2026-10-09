@@ -1,0 +1,18 @@
+# Dados do TSE e do IBGE: baixe das fontes (veja o README)
+dados_votacao/
+dados_boletim_urna/
+dados_malhas_ibge/
+dados_locais_votacao/
+*.zip
+# Pastas que os notebooks criam ao descompactar os arquivos de votação
+detalhe_votacao_secao_2022/
+votacao_secao_2022_BR/
+# Saídas geradas ao rodar
+animacao.gif
+# Python e Jupyter
+__pycache__/
+.ipynb_checkpoints/
+# Sistema
+.DS_Store
+desktop.ini
+Thumbs.db
