@@ -4,9 +4,10 @@ dados_boletim_urna/
 dados_malhas_ibge/
 dados_locais_votacao/
 *.zip
-# Pastas que os notebooks criam ao descompactar os arquivos de votação
+# Pastas que os notebooks criam ao descompactar os arquivos de votação e os boletins de urna
 detalhe_votacao_secao_2022/
 votacao_secao_2022_BR/
+bweb_1t_*/
 # Saídas geradas ao rodar
 animacao.gif
 # Python e Jupyter
